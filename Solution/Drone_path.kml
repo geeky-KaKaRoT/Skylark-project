@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_195">
+        <Placemark id="feat_196">
+            <name>0s</name>
+            <Point id="geom_170">
+                <coordinates>19.149798647687,73.00135763743417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>1s</name>
+            <Point id="geom_171">
+                <coordinates>19.15045320983492,73.00132489350985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>2s</name>
+            <Point id="geom_172">
+                <coordinates>19.15078202864481,73.00148134978508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>3s</name>
+            <Point id="geom_173">
+                <coordinates>19.15111018236003,73.00172944741077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>4s</name>
+            <Point id="geom_174">
+                <coordinates>19.15147149707222,73.00171457575738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>5s</name>
+            <Point id="geom_175">
+                <coordinates>19.15187330309565,73.00156440967349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>6s</name>
+            <Point id="geom_176">
+                <coordinates>19.15257115687138,73.00138632370391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>7s</name>
+            <Point id="geom_177">
+                <coordinates>19.15393596109965,73.00124152511798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>8s</name>
+            <Point id="geom_178">
+                <coordinates>19.15499464007625,73.00304895959138,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>9s</name>
+            <Point id="geom_179">
+                <coordinates>19.15472301733992,73.00409920972069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>10s</name>
+            <Point id="geom_180">
+                <coordinates>19.15396035168237,73.00415722991562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>11s</name>
+            <Point id="geom_181">
+                <coordinates>19.1528316414918,73.00361517516627,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>12s</name>
+            <Point id="geom_182">
+                <coordinates>19.15251053566632,73.00355105973519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>13s</name>
+            <Point id="geom_183">
+                <coordinates>19.15210945447706,73.00352277594513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>14s</name>
+            <Point id="geom_184">
+                <coordinates>19.15174863012053,73.00367123064356,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>15s</name>
+            <Point id="geom_185">
+                <coordinates>19.15168231548071,73.00413739314382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>16s</name>
+            <Point id="geom_186">
+                <coordinates>19.15174602113504,73.00484203064553,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
